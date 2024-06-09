@@ -1,0 +1,1 @@
+This repo has all the code that was written for practicing and hands on while covering the book Full-Stack React, TypeScript, and Node: Build Cloud-ready Web Applications Using React 17 with Hooks and GraphQL.
